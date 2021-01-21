@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\bin\Debug\TugasWeek15_Makanmakan.exe.config
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\bin\Debug\TugasWeek15_Makanmakan.exe
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\bin\Debug\TugasWeek15_Makanmakan.pdb
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.Form1.resources
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.Properties.Resources.resources
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.exe
+C:\Users\User\source\repos\TugasWeek15_Makanmakan\TugasWeek15_Makanmakan\obj\Debug\TugasWeek15_Makanmakan.pdb
